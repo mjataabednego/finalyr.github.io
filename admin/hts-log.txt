@@ -1,0 +1,16 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 11 May 2023 03:26:22 at https://themewagon.github.io/dashtreme/?_ga=2.234065822.1865837604.1683714052-979550511.1673347853 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://themewagon.github.io/dashtreme/?_ga=2.234065822.1865837604.1683714052-979550511.1673347853 -O1 "D:\DATA\mOYO\Final year\negopro\admin" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+03:26:41	Error: 	"Not Found" (404) at link https://themewagon.github.io/dashtreme/assets/plugins/vectormap/jquery-jvectormap-2.0.2.css (from https://themewagon.github.io/dashtreme/?_ga=2.234065822.1865837604.1683714052-979550511.1673347853)
+03:32:31	Error: 	"Not Found" (404) at link https://themewagon.github.io/dashtreme/assets/js/jquery.loading-indicator.js (from https://themewagon.github.io/dashtreme/?_ga=2.234065822.1865837604.1683714052-979550511.1673347853)
+03:32:32	Error: 	"Not Found" (404) at link https://themewagon.github.io/dashtreme/assets/font/weathericons-regular-webfont.woff (from https://themewagon.github.io/dashtreme/assets/css/icons.css)
+03:32:32	Error: 	"Not Found" (404) at link https://themewagon.github.io/dashtreme/assets/font/weathericons-regular-webfont.ttf (from https://themewagon.github.io/dashtreme/assets/css/icons.css)
+03:32:32	Error: 	"Not Found" (404) at link https://themewagon.github.io/dashtreme/assets/font/weathericons-regular-webfont.svg (from https://themewagon.github.io/dashtreme/assets/css/icons.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 19 seconds : 583 links scanned, 577 files written (13529647 bytes overall) [7311365 bytes received at 19291 bytes/sec], 10035508 bytes transferred using HTTP compression in 539 files, ratio 33%, 58.3 requests per connection
+(5 errors, 0 warnings, 0 messages)
